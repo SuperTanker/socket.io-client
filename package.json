@@ -20,7 +20,7 @@
     "component-bind": "1.0.0",
     "component-emitter": "1.2.1",
     "debug": "~2.6.4",
-    "engine.io-client": "git+https://github.com/TankerApp/engine.io-client.git#cfb6fa113fb5dc22e08777bd8fc6b6701f00ba67",
+    "engine.io-client": "git+https://github.com/SuperTanker/engine.io-client.git#cfb6fa113fb5dc22e08777bd8fc6b6701f00ba67",
     "has-cors": "1.1.0",
     "indexof": "0.0.1",
     "object-component": "0.0.3",
